@@ -1,12 +1,23 @@
-# 💻 Prácticas 
+# **Proyecto Final** 🏪💵
 
-### Prácticas realizadas durante el curso:
+**Equipo: pending**
 
-- Práctica 01: 
-- Práctica 02: 
-- Práctica 03: 
-- Práctica 04: 
-- Práctica 05: 
-- Práctica 06:
-- Práctica 07:
-- Práctica 08: 
+- Bonilla Reyes Dafne
+
+- Castañon Maldonado Carlos Emilio
+
+- García Ponce José Camilo
+
+- Villalpado Diego
+
+---
+
+## **Uso**
+
+- Compilar desde `src/`:
+
+```
+javac Proyecto1.java
+```
+
+- Correr desde `src/`:
