@@ -2,8 +2,8 @@
 
 ### Índice:
 
-1. Introducción
-2. Análisis Léxico
-3. Tabla de Símbolos
+1. Roles de Equipo
+2. Analisis de Requerimientos
+3. 
 4. 
 5. 
