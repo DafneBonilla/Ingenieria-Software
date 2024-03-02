@@ -1,6 +1,6 @@
 Ingeniería de Software 🖥️🔧
 =========================================
-Curso Completo 2024-2
+Curso Completo 2024-2 ejemplo
 -------------------------------------------
 
 ### Profesor: Francisco Valdés Souto
